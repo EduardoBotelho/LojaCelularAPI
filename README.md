@@ -1,14 +1,13 @@
-# LojaCelularAPI
 
-# Loja de Celulares API
+#**Loja de Celulares**
 
-## Descrição
+##**Descrição**
 
-API para gerenciamento de uma loja de celulares. Inclui operações CRUD para celulares, capas de celular e vendas.
+**API para gerenciamento de uma loja de celulares.**
 
-## Endpoints
+##**Endpoints**
 
-### Celular
+###**Celular**
 - `GET /api/celulares` - Listar todos os celulares
 - `POST /api/celulares` - Adicionar um novo celular
 - `GET /api/celulares/{id}` - Buscar um celular pelo ID
